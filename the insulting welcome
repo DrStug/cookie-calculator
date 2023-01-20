@@ -1,0 +1,7 @@
+print("Who Are You")
+user_name = input()
+print("Hello,+ user_name")
+if user_name == "Yandev"
+   print("Yandev Pidarash")
+else:
+    print("Hello, " + user_name + "Have a shity day")
